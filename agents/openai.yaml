@@ -1,0 +1,4 @@
+interface:
+  display_name: "Paper Reading Tutor"
+  short_description: "逐公式逐符号讲清来源，补足前置知识并通过互动检查理解，适用于论文精读"
+  default_prompt: "使用 $paper-reading-tutor，结合论文原文逐公式逐符号解释来源，展开推导，讲完后检查我的理解。"
